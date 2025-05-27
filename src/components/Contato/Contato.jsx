@@ -1,6 +1,6 @@
 import React from 'react'
 
-const POKEMONS = () => {
+const Contato = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const POKEMONS = () => {
   )
 }
 
-export default POKEMONS
+export default Contato
