@@ -5,9 +5,18 @@
     <link rel="icon" type="image/png" href="/icone.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React</title>
+    <style>
+      body {
+        background-image: url('src/assets/background.png'); /* Coloque a imagem na pasta public */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/components/main.jsx"></script>
+    <script type="module" src="./src/main.jsx"></script>
   </body>
 </html>
