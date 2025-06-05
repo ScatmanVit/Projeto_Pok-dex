@@ -5,9 +5,8 @@ Status: Em desenvolvimento.
 
 ---
 
-##⚙️ Tecnologias
+## ⚙️ Tecnologias
 React(Hooks, Components, Pages)
-
 JavaScript
 PokéAPI
 CSS
