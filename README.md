@@ -6,17 +6,17 @@ Status: Em desenvolvimento.
 ---
 
 ## ⚙️ Tecnologias
-React(Hooks, Components, Pages)
-JavaScript
-PokéAPI
-CSS
-Vite
+React(Hooks, Components, Pages)  
+JavaScript  
+PokéAPI  
+CSS  
+Vite  
 
 ---
 
 ## 📌 Funcionalidades
 Página inicial com introdução
 
-Lista de Pokémons da 1ª geração
-Página de detalhes de cada Pokémon
-Formulário de contato estilizado
+Lista de Pokémons da 1ª geração  
+Página de detalhes de cada Pokémon  
+Formulário de contato estilizado  
