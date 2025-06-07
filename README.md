@@ -1,4 +1,4 @@
-# ReactDex
+# ReactPOKE-DEX
 🧠 Sobre
 Esse projeto foi desenvolvido com o objetivo de aprender React na prática, fortalecer a lógica de programação e aprender a consumir dados de APIs utilizando JavaScript.
 Status: Em desenvolvimento.
