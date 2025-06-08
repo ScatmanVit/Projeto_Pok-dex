@@ -1,3 +1,4 @@
+import "././assets/icone.png"
 import Header from "./components/Header/Header.jsx";
 import Home from "./pages/Home/index.jsx";
 import Pokemon from "./pages/Pokemon/index.jsx";

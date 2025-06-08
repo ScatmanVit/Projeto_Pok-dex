@@ -10,7 +10,7 @@ const textos = [
     <br />,
     "    Esse projeto foi desenvolvido com o objetivo de ensinar React na prática, de uma forma divertida e envolvente. A Pokédex React é mais do que um simples catálogo — ela representa o poder da programação para transformar conhecimento em algo visual, interativo e cheio de personalidade. Preparado para começar sua jornada? Então escolha seu Pokémon e venha explorar esse mundo com a gente!"
 ];
- 
+
 const Home = () => {
     return (
         <main className="home">

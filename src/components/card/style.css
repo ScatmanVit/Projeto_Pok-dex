@@ -1,0 +1,55 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: rgba(255, 255, 255, 0.506);
+   margin-bottom: 100px;
+
+}
+
+.container {
+   display: flex;
+   flex-wrap: wrap;              /* Faz os cards quebrarem para nova linha */
+   gap: 1.1rem;                  /* Espaço entre os cards */
+   justify-content: center;     /* Centraliza os cards */
+   margin-top: 2rem;
+   padding: 0 1rem;              /* Adiciona um pouco de espaço nas bordas */
+   text-align: center;
+
+}
+
+.card {
+   width: 200px;                /* DIMINUIU o tamanho do card */
+   background-color: #DEDEDE;
+   color: #000;
+   border: 1px solid;
+   border-radius: 20px;
+   padding: 0.8rem;             /* Adiciona espaço interno */
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+
+img {
+   width: 15dvh;                /* Imagem proporcionalmente menor */
+   margin-bottom: 0.5rem;
+}
+
+h1 {
+   font-size: 1rem;             /* Texto menor */
+   padding-bottom: 10px;
+}
+
+.id_pokemon {
+   font-weight: 400;
+   font-size: 1em;
+   padding-top: 8px;
+   text-align: right;
+   width: 100%;
+   padding-right: 0.5rem;
+}
